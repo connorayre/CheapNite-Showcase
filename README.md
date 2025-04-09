@@ -29,4 +29,12 @@ The `/archive` folder contains early-stage experiments, backend attempts, and un
 
 Connor Ayre – Full-stack dev with a focus on mobile and government tech
 
+### User side images
+
+
+![cn1](https://github.com/user-attachments/assets/a8e8012d-5a0d-420c-88bd-735ed52e0023)
+![cn2](https://github.com/user-attachments/assets/1fae5fc3-02cf-4474-a291-880085375730)
+![cn3](https://github.com/user-attachments/assets/d88be2ac-68ba-48b9-b6e1-d6e0a8fb96ac)
+![cn4](https://github.com/user-attachments/assets/66194455-59d8-41e0-a6c4-fd1161d77b58)
+
 
