@@ -4,7 +4,7 @@ Discover local deals and promotions with CheapNite — a mobile app built with R
 
 ## 🔧 Tech Stack
 
-- React Native
+- React Native (Application is ported to both IOS and Android)
 - Firebase (Auth, Firestore, Storage)
 
 ## 🚀 About the App
