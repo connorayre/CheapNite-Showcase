@@ -1,0 +1,420 @@
+{
+  "version": "1.2.0",
+  "supportEmail": "support@cheapnite.ca",
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "addDealTypes": [
+    {
+      "id": 1,
+      "name": "Food Deal",
+      "dbName": "food"
+    },
+    {
+      "id": 2,
+      "name": "Drink Deal",
+      "dbName": "drink"
+    },
+    {
+      "id": 3,
+      "name": "Event",
+      "dbName": "event"
+    }
+  ],
+  "addDealTags": [
+    {
+      "id": 1,
+      "name": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Fast Food"
+    },
+    {
+      "id": 3,
+      "name": "Asian"
+    },
+    {
+      "id": 4,
+      "name": "BBQ"
+    },
+    {
+      "id": 5,
+      "name": "BOGO"
+    },
+    {
+      "id": 6,
+      "name": "Carribean"
+    },
+    {
+      "id": 7,
+      "name": "Greek"
+    },
+    {
+      "id": 8,
+      "name": "Salad"
+    },
+    {
+      "id": 9,
+      "name": "Indian"
+    },
+    {
+      "id": 10,
+      "name": "Mexican"
+    },
+    {
+      "id": 11,
+      "name": "Beer"
+    },
+    {
+      "id": 12,
+      "name": "Wine"
+    },
+    {
+      "id": 13,
+      "name": "Wings"
+    },
+    {
+      "id": 14,
+      "name": "Other"
+    },
+    {
+      "id": 15,
+      "name": "Specials"
+    },
+    {
+      "id": 16,
+      "name": "Liquor"
+    },
+    {
+      "id": 17,
+      "name": "Patio"
+    },
+    {
+      "id": 18,
+      "name": "Live Music"
+    },
+    {
+      "id": 19,
+      "name": "Trivia"
+    },
+    {
+      "id": 20,
+      "name": "Karaoke"
+    },
+    {
+      "id": 21,
+      "name": "Sports"
+    },
+    {
+      "id": 22,
+      "name": "Delivery"
+    },
+    {
+      "id": 23,
+      "name": "Italian"
+    },
+    {
+      "id": 24,
+      "name": "Breakfast"
+    },
+    {
+      "id": 25,
+      "name": "Vegan"
+    }
+  ],
+  "tags": [
+    "Pizza",
+    "Fast Food",
+    "Asian",
+    "BBQ",
+    "BOGO",
+    "Breakfast",
+    "Carribean",
+    "Fast Food",
+    "Greek",
+    "Salad",
+    "Indian",
+    "Italian",
+    "Mexican",
+    "Pizza",
+    "Vegan",
+    "Wings",
+    "Delivery",
+    "Other",
+    "Specials",
+    "Beer",
+    "Wine",
+    "Liquor",
+    "Patio",
+    "Other",
+    "Live Music",
+    "Trivia",
+    "Karaoke",
+    "Sports"
+  ],
+  "faq": {
+    "restaurants": {
+      "Want to add your fantastic deal for people to see?": "Cruise over to 'My Deals', and smack that 'Add Deal' button like it owes you money!",
+      "Trying to get the 'Verified' cool kid badge?": "Swing by 'My Account' and politely tap the 'Request Verify' button. It’ll ring our digital doorbell! \n\nIn order for users to view your deals, we'll need to verify you.",
+      "Want to reset your password?": "Been there, done that! Saunter on over to 'My Profile' and click 'Password Reset'.",
+      "Need to spruce up your deal's details?": "Click your deal in 'My Deals', and tap 'Edit'. Or, channel your inner Picasso!",
+      "Deal gone sour?": "Want to ditch it? Head into 'My Deals' and swipe that deal into oblivion, or tap it and delete your masterpiece forever. No hard feelings!",
+      "How do I delete my account?": "If you wish to delete your account, please click "
+    },
+    "users": {
+      "Are we only in Ottawa?": "For now, yes! But we've got our suitcases packed! More cities coming soon!",
+      "Wanna see deals near you based on your location?": "Proximity is here! Tap the filter on the far right of the search bar. Deals are by default, sorted by closest to you!",
+      "Spotted a drool-worthy deal and dont want to forget it?": "Show some love! Tap the heart in the top right of the deal's image to save it for later.",
+      "Can't remember where your heart went?": "Jog on over to 'My Deals' and witness your collection of heart-throbing deals!",
+      "Got specific deal cravings or just want some ideas?": "Click on our smorgasbord of deal types and tags. It's like a buffet, but for deals!",
+      "How do I delete my account?": "If you wish to delete your account, please click ",
+      "Why are some deals shown and some greyed out?": "Every deal thats shown is live today! That means you can enjoy its benefits right now. Some deals are marked 'Live soon' which will be live sometime in the next 2 days"
+    }
+  },
+  "loginMessages": [
+    {
+      "title": "Appetite Alert!",
+      "message": "Brace your belly, savings are coming!"
+    },
+    {
+      "title": "Thirst Trap!",
+      "message": "You're about to drown in drink deals!"
+    },
+    {
+      "title": "Budget Buffet!",
+      "message": "Ready to feast without the financial famine?"
+    },
+    {
+      "title": "Dollar Diner!",
+      "message": "Who knew your wallet could weigh this much after a meal?"
+    },
+    {
+      "title": "Dough-n't Worry!",
+      "message": "We have deals that’ll make you rise with joy!"
+    },
+    {
+      "title": "Steak Your Claim!",
+      "message": "Savings so juicy, you'll need a napkin!"
+    },
+    {
+      "title": "Dealicious!",
+      "message": "Hope you've got a big appetite for savings!"
+    },
+    {
+      "title": "Hopportunity Knocks!",
+      "message": "Beer you waiting for? Dive into these brew-tiful deals!"
+    },
+    {
+      "title": "Lettuce Celebrate!",
+      "message": "Salads? Nah, we're tossing up some savings!"
+    },
+    {
+      "title": "Sip Sip, Hooray!",
+      "message": "Ready to quench your thirst without drying up your bank?"
+    },
+    {
+      "title": "Fork Yeah!",
+      "message": "Let's dive fork-first into these deals!"
+    },
+    {
+      "title": "Holy Guacamole!",
+      "message": "Ready to dip into some un-bean-lievable deals?"
+    },
+    {
+      "title": "Eats Amore!",
+      "message": "Deals so good, you'll be singing, 'That's amore!'"
+    },
+    {
+      "title": "Eggstra Special!",
+      "message": "We've cracked the code to wallet-friendly feasting!"
+    },
+    {
+      "title": "Bready or Not!",
+      "message": "Here crumbs the deals!"
+    },
+    {
+      "title": "No Reservations!",
+      "message": "Dine out on deals without the wait!"
+    },
+    {
+      "title": "Miso Happy!",
+      "message": "You're about to soup up some serious savings!"
+    },
+    {
+      "title": "Stir-Fry-day!",
+      "message": "Any day is a good day for a wok on the savings side!"
+    },
+    {
+      "title": "Wine Not?",
+      "message": "Uncork some savings that'll make you swirl with delight!"
+    },
+    {
+      "title": "Whisk Taker!",
+      "message": "Whipping up deals that’ll make your day eggstra special!"
+    },
+    {
+      "title": "Spice-tacular!",
+      "message": "Our deals come with a side of zing!"
+    },
+    {
+      "title": "Food's Paradise!",
+      "message": "Life's a beach and we're just playing in the sand-wich!"
+    },
+    {
+      "title": "Saucy Savings!",
+      "message": "Our deals? Let's just say they've got the sauce!"
+    },
+    {
+      "title": "Taco 'Bout Awesome!",
+      "message": "Wrap up your worries, and unwrap these deals!"
+    },
+    {
+      "title": "Cheers Mate!",
+      "message": "Ready to lift your spirits without dropping your dollars?"
+    },
+    {
+      "title": "Pie-high Club!",
+      "message": "Slice into savings that’ll elevate your mood!"
+    },
+    {
+      "title": "Nacho Average Deals!",
+      "message": "Dive into a cheese pool of offers!"
+    },
+    {
+      "title": "Pour Decisions!",
+      "message": "Our drink deals? Intoxicatingly affordable!"
+    },
+    {
+      "title": "Roll With It!",
+      "message": "Sushi savings coming in hot. Or cold. Your pick!"
+    },
+    {
+      "title": "Pho-nomenal!",
+      "message": "Soup up your life with slurp-worthy savings!"
+    },
+    {
+      "title": "Toast-Tastic!",
+      "message": "Raise your glasses to deals that sparkle!"
+    },
+    {
+      "title": "Yolk's On You!",
+      "message": "Missed breakfast? We've got eggs-quisite deals all day!"
+    },
+    {
+      "title": "Knead More?",
+      "message": "Our deals are the yeast of your worries!"
+    },
+    {
+      "title": "Cheese Louise!",
+      "message": "Get ready to melt over these grate deals!"
+    },
+    {
+      "title": "Grin and Beer It!",
+      "message": "Hop into our brewery of bargains!"
+    },
+    {
+      "title": "Sugar, Spice, and Everything Nice!",
+      "message": "Desserts or deals? Why not both?"
+    },
+    {
+      "title": "No Waffling Here!",
+      "message": "Straight-up, syrupy sweet deals!"
+    },
+    {
+      "title": "Muffin To Lose!",
+      "message": "But a whole lot of dough to save!"
+    },
+    {
+      "title": "Burger Bliss!",
+      "message": "Savings stacked higher than a double-decker!"
+    },
+    {
+      "title": "Meat Us Halfway!",
+      "message": "Get your steak and eat it too, on a budget!"
+    },
+    {
+      "title": "Keep Palm and Curry On!",
+      "message": "We're here to spice up your savings!"
+    },
+    {
+      "title": "Rolling in the Dough!",
+      "message": "Pizza deals that'll make you knead more!"
+    },
+    {
+      "title": "Deal-lightful!",
+      "message": "Why settle for less when you can feast for less?"
+    },
+    {
+      "title": "Romaine Calm!",
+      "message": "Lettuce save you some money!"
+    }
+  ],
+  "quotes": [
+    "“Drink heavily with locals whenever possible”",
+    "“An egg in anything makes it better”",
+    "“An ounce of sauce covers a multitude of sins”",
+    "“People who love to eat are always the best people”",
+    "“To eat is a necessity, but to eat intelligently is an art”",
+    "“Laughter is brightest where food is best”",
+    "“Life is a combination of magic and pasta”",
+    "“Lettuce save you some money!”",
+    "“A whole lot of dough to save!”",
+    "“Intoxicatingly affordable drink deals!”",
+    "“Straight-up, syrupy sweet deals!”",
+    "“Wrap up your worries, and unwrap these deals!”",
+    "“Here crumbs the deals!”",
+    "“Ready to feast without the financial famine?”",
+    "“Brace your belly, savings are coming!”",
+    "“Life is too short to skip Happy Hour”",
+    "“Take a pitcher, it'll last longer”",
+    "“Stop and smell the rosé”",
+    "“Drink happy thoughts”",
+    "“I drink to make other people interesting”",
+    "“As God is my witness, I'll never be hungry again.”",
+    "“A martini. Shaken, not stirred.”",
+    "“It’s so damn hot! Milk was a bad choice.”",
+    "“Fish are friends, not food.”",
+    "“Jenny and me was like peas and carrots.”",
+    "“Is butter a carb?”",
+    "“Carbs are the answer. No matter the question.”",
+    "“My favorite flavor of cake is more.”",
+    "“Fries before guys…and pretty much everything else.”",
+    "“I just want someone to look at me the way I look at food.”",
+    "“There’s no “we” in ice cream.”",
+    "“Home is wherever I’m with food.”",
+    "“Love means never having to say 'Should we get dessert?””",
+    "“Abs are temporary. Chocolate is forever.”",
+    "“Fun size is for quitters.”",
+    "“The only clubs I’m interested in are sandwiches.”",
+    "“Diet tip: Don’t.”",
+    "“My bank account may be on a diet, but I am certainly not”",
+    "“I’m not broke, I’m just pre rich”",
+    "“Life’s too short to stay at home”",
+    "“Eating out: where calories don’t count”",
+    "“Food taste better when you didn’t have to cook it”",
+    "“Don’t threaten me with a good time”",
+    "“My favourite outdoor activity: finding the nearest patio”",
+    "“I'm on a seafood diet. I see food, and I eat it.”",
+    "“The secret ingredient is always cheese.”",
+    "“When life gives you lemons, find a tequila bar.”",
+    "“Friendship is sharing nachos, even if it's 'cheesy.”",
+    "“Barbecue and beer: The fuel of scholars.”",
+    "“Maple syrup shots: Our liquid courage in cold times.”",
+    "“Patio season: The time when ice melts into smiles.”",
+    "“Mama Always Said Life Was Like A Box Of Chocolates.”",
+    "“Anyway, like I was sayin', shrimp is the fruit of the sea.”",
+    "“You can barbecue it, boil it, broil it, bake it, saute it.”"
+  ]
+}
